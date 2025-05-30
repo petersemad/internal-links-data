@@ -1,5 +1,210 @@
 [
-  { "keyword": "sales", "url": "/blog/inbound-vs-outbound-sales" },
-  { "keyword": "cold email", "url": "/blog/cold-email-guide" },
-  { "keyword": "GTM Funnel", "url": "/blog/gtm-funnel" }
+  {
+    "url": "/blog/automated-email-follow-up",
+    "keywords": [
+      "automated email follow-up",
+      "follow-up automation",
+      "email sequences"
+    ]
+  },
+  {
+    "url": "/blog/automated-sales-funnel",
+    "keywords": [
+      "automated sales funnel",
+      "sales funnel automation",
+      "automated lead nurturing"
+    ]
+  },
+  {
+    "url": "/blog/b2b-gtm-strategy",
+    "keywords": [
+      "B2B GTM strategy",
+      "go-to-market plan",
+      "B2B sales strategy"
+    ]
+  },
+  {
+    "url": "/blog/b2b-sales-automation",
+    "keywords": [
+      "B2B sales automation",
+      "automated sales",
+      "sales automation tools"
+    ]
+  },
+  {
+    "url": "/blog/causes-of-low-sales",
+    "keywords": [
+      "low sales",
+      "declining revenue",
+      "sales drop causes"
+    ]
+  },
+  {
+    "url": "/blog/clay-lead-generation",
+    "keywords": [
+      "Clay lead generation",
+      "Clay.com",
+      "lead gen with Clay"
+    ]
+  },
+  {
+    "url": "/blog/cold-email-guide",
+    "keywords": [
+      "cold email guide",
+      "cold email strategy",
+      "email outreach"
+    ]
+  },
+  {
+    "url": "/blog/cold-email-subject-line",
+    "keywords": [
+      "cold email subject line",
+      "email subject testing",
+      "cold outreach subject lines"
+    ]
+  },
+  {
+    "url": "/blog/declining-sales",
+    "keywords": [
+      "declining sales",
+      "sales drop",
+      "low sales performance"
+    ]
+  },
+  {
+    "url": "/blog/gtm-engineering",
+    "keywords": [
+      "GTM engineering",
+      "go-to-market automation",
+      "growth engineering"
+    ]
+  },
+  {
+    "url": "/blog/gtm-funnel",
+    "keywords": [
+      "GTM funnel",
+      "go-to-market funnel",
+      "B2B funnel stages"
+    ]
+  },
+  {
+    "url": "/blog/gtm-operations",
+    "keywords": [
+      "GTM operations",
+      "go-to-market ops",
+      "sales ops"
+    ]
+  },
+  {
+    "url": "/blog/gtm-tech-stack",
+    "keywords": [
+      "GTM tech stack",
+      "sales tools stack",
+      "go-to-market software"
+    ]
+  },
+  {
+    "url": "/blog/how-to-use-clay",
+    "keywords": [
+      "how to use Clay",
+      "Clay tutorial",
+      "getting started with Clay"
+    ]
+  },
+  {
+    "url": "/blog/improve-sales-performance",
+    "keywords": [
+      "improve sales performance",
+      "boost sales",
+      "sales productivity"
+    ]
+  },
+  {
+    "url": "/blog/inbound-vs-outbound-sales",
+    "keywords": [
+      "inbound vs outbound sales",
+      "outbound vs inbound",
+      "sales channels"
+    ]
+  },
+  {
+    "url": "/blog/influencer-outreach-strategies",
+    "keywords": [
+      "influencer outreach",
+      "influencer marketing",
+      "outreach strategies"
+    ]
+  },
+  {
+    "url": "/blog/lead-sourcing",
+    "keywords": [
+      "lead sourcing",
+      "finding leads",
+      "B2B lead generation"
+    ]
+  },
+  {
+    "url": "/blog/marketing-agency-client-outreach-automation",
+    "keywords": [
+      "agency outreach automation",
+      "client outreach",
+      "marketing automation"
+    ]
+  },
+  {
+    "url": "/blog/product-data-enrichment",
+    "keywords": [
+      "product data enrichment",
+      "data enhancement",
+      "product info enrichment"
+    ]
+  },
+  {
+    "url": "/blog/saas-cold-email-strategy",
+    "keywords": [
+      "SaaS cold email strategy",
+      "SaaS outreach",
+      "cold emailing for SaaS"
+    ]
+  },
+  {
+    "url": "/blog/saas-email-templates",
+    "keywords": [
+      "SaaS email templates",
+      "cold email templates",
+      "sales email templates"
+    ]
+  },
+  {
+    "url": "/blog/saas-lead-generation",
+    "keywords": [
+      "SaaS lead generation",
+      "SaaS leads",
+      "lead gen for SaaS"
+    ]
+  },
+  {
+    "url": "/blog/saas-outbound-sales",
+    "keywords": [
+      "SaaS outbound sales",
+      "SaaS sales strategy",
+      "outbound sales for SaaS"
+    ]
+  },
+  {
+    "url": "/blog/sales-pipeline-metrics",
+    "keywords": [
+      "sales pipeline metrics",
+      "pipeline KPIs",
+      "sales performance metrics"
+    ]
+  },
+  {
+    "url": "/blog/underperforming-sales-team",
+    "keywords": [
+      "underperforming sales team",
+      "sales team",
+      "low performing reps"
+    ]
+  }
 ]
